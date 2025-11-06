@@ -101,15 +101,15 @@ User can share or download the result instantly.
 ## APP IMAGES :
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c2e8a8e3-ba0d-4cba-b778-717f8618bb0a" alt="pdf 5" width="45%">
-  <img src="https://github.com/user-attachments/assets/02ec3500-def9-4952-8b98-385b1aaa6101" alt="pdf 5" width="45%">
+  <img src="https://github.com/user-attachments/assets/c2e8a8e3-ba0d-4cba-b778-717f8618bb0a" alt="pdf 5" width="30%">
+  <img src="https://github.com/user-attachments/assets/02ec3500-def9-4952-8b98-385b1aaa6101" alt="pdf 5" width="30%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7745e1d-6011-4a22-8226-f150443e67ed" alt="pdf 5" width="45%">
-  <img src="https://github.com/user-attachments/assets/9abe85d8-46ff-4dbf-8f48-ae0d1bd88908" alt="pdf 5" width="45%">
+  <img src="https://github.com/user-attachments/assets/e7745e1d-6011-4a22-8226-f150443e67ed" alt="pdf 5" width="30%">
+  <img src="https://github.com/user-attachments/assets/9abe85d8-46ff-4dbf-8f48-ae0d1bd88908" alt="pdf 5" width="30%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5d4440b-1beb-4099-9baf-aed73e74da5b" alt="pdf 5" width="45%">
+  <img src="https://github.com/user-attachments/assets/b5d4440b-1beb-4099-9baf-aed73e74da5b" alt="pdf 5" width="30%">
 </p>
 
 
