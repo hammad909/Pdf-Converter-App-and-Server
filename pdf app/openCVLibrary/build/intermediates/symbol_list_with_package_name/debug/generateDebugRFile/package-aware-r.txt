@@ -1,0 +1,6 @@
+org.opencv
+attr camera_id
+attr max_height
+attr max_width
+attr show_fps
+styleable CameraBridgeViewBase camera_id max_height max_width show_fps

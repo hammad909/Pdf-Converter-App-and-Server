@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CameraBridgeViewBase">
+        <attr name="camera_id" format="integer" />
+        <attr name="max_width" format="dimension" />
+        <attr name="max_height" format="dimension" />
+        <attr name="show_fps" format="boolean" />
+    </declare-styleable>
+</resources>

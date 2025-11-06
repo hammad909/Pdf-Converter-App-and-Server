@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+attr? camera_id
+attr? max_height
+attr? max_width
+attr? show_fps
+styleable CameraBridgeViewBase camera_id max_width max_height show_fps

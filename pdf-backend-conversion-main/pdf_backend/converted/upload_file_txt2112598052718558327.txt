@@ -1,0 +1,23 @@
+
+--- Page 1 ---
+SPR-2025
+4307-FBAS/BSSE/F21 Registration No:
+Student Name: Muhammad Hammad Ullah
+Father's Name: Khadim Hussain
+Faculty: Sciences
+Department: 'Software Engineering'
+Degree Program: 'BS Software Engineering'
+Course Code Course Title Cr. Hrs Grade
+CS364 Operations Research 3 B+
+CS415 Senior Design Project-II 3 A
+CS451 Artificial Intelligence 3 A
+SE322 Formal Methods 3 A
+GC120 Tech & Business Writing 3 B
+GC403 Social Work 1 B
+GC109 Pakistani Culture & Society 3 B
+Cummulative GPA: 3.24/4.00 Percentage of Marks: 73.45
+Status: Degree Complete
+Issued on: October 23, 2025
+KEY TO LETTER GRADES
+80% and above A 75-79.99% B+ 70-74.99% B 65-69.99% C+ 60-64.99% C 55-59.99% D+ 50-54.99% D Below 50% F
+Errors and omissions are excepted. System generated result intimation. (for information only).

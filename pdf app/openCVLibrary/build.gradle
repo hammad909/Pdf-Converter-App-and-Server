@@ -1,0 +1,18 @@
+apply plugin: 'com.android.library'
+
+android {
+    namespace "org.opencv"
+    compileSdkVersion 34
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 34
+    }
+
+    sourceSets {
+        main {
+            java.srcDirs = ['src']
+            jniLibs.srcDirs = ['../native/libs']
+        }
+    }
+}

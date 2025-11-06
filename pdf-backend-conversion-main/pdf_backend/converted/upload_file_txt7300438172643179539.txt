@@ -1,0 +1,27 @@
+
+--- Page 1 ---
+Habib Bank Limited Account#: 50007904002803 Habib Bank Limited Account#: 50007904002803 Habib Bank Limited Account#: 50007904002803 Habib Bank Limited Account#: 50007904002803
+Challan#: Challan#: Challan#: Challan#: 120865705 120865705 120865705 120865705
+CNIC: CNIC: CNIC: CNIC: 6110123798475 6110123798475 6110123798475 6110123798475
+Semester: Semester: Semester: Semester: FALL-2025 FALL-2025 FALL-2025 FALL-2025
+Issued Date: Issued Date: Issued Date: Issued Date: 27-10-2025 27-10-2025 27-10-2025 27-10-2025
+Due Date: 26-11-2025 Due Date: 26-11-2025 Due Date: 26-11-2025 Due Date: 26-11-2025
+Reg#: Reg#: Reg#: Reg#: 4307-FBAS/BSSE/F21 4307-FBAS/BSSE/F21 4307-FBAS/BSSE/F21 4307-FBAS/BSSE/F21
+Name: Name: Name: Name: Muhammad Hammad Ullah Muhammad Hammad Ullah Muhammad Hammad Ullah Muhammad Hammad Ullah
+Father's Name:Khadim Father's Name:Khadim Father's Name:Khadim Father's Name:Khadim Hussain Hussain Hussain Hussain
+Faculty: Faculty: Faculty: Faculty: Sciences Sciences Sciences Sciences
+Department: Department: Department: Department: 'Software Engineering' 'Software Engineering' 'Software Engineering' 'Software Engineering'
+Program: Program: Program: Program: BS Software Engineering BS Software Engineering BS Software Engineering BS Software Engineering
+Particulars Amount Particulars Amount Particulars Amount Particulars Amount
+Degree Fee (Normal) 5000 Degree Fee (Normal) 5000 Degree Fee (Normal) 5000 Degree Fee (Normal) 5000
+Total Amount (PKR) Total Amount (PKR) Total Amount (PKR) Total Amount (PKR) 5000 5000 5000 5000
+Fine Fine Fine Fine
+Grand Total (PKR) 5000 Grand Total (PKR) 5000 Grand Total (PKR) 5000 Grand Total (PKR) 5000
+Late Payment Fine Per day Rs.100 upto Late Payment Fine Per day Rs.100 upto Late Payment Fine Per day Rs.100 upto Late Payment Fine Per day Rs.100 upto
+Max. Rs. 5000 per Semester Max. Rs. 5000 per Semester Max. Rs. 5000 per Semester Max. Rs. 5000 per Semester
+Instruction(s) Instruction(s) Instruction(s) Instruction(s)
+Can be deposited in any branch of Can be deposited in any branch of Can be deposited in any branch of Can be deposited in any branch of
+Pakistan. Pakistan. Pakistan. Pakistan.
+Bank Copy Account Copy Academic Copy Student Copy
+
+--- Page 2 ---
